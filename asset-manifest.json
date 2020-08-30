@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FuodBorne/static/css/main.e2034bd7.chunk.css",
+    "main.js": "/FuodBorne/static/js/main.930abc13.chunk.js",
+    "main.js.map": "/FuodBorne/static/js/main.930abc13.chunk.js.map",
+    "runtime-main.js": "/FuodBorne/static/js/runtime-main.d4626fdf.js",
+    "runtime-main.js.map": "/FuodBorne/static/js/runtime-main.d4626fdf.js.map",
+    "static/css/2.0fd6ed1c.chunk.css": "/FuodBorne/static/css/2.0fd6ed1c.chunk.css",
+    "static/js/2.73794779.chunk.js": "/FuodBorne/static/js/2.73794779.chunk.js",
+    "static/js/2.73794779.chunk.js.map": "/FuodBorne/static/js/2.73794779.chunk.js.map",
+    "index.html": "/FuodBorne/index.html",
+    "precache-manifest.39c010039c89ae2158f24a782238efd2.js": "/FuodBorne/precache-manifest.39c010039c89ae2158f24a782238efd2.js",
+    "service-worker.js": "/FuodBorne/service-worker.js",
+    "static/css/2.0fd6ed1c.chunk.css.map": "/FuodBorne/static/css/2.0fd6ed1c.chunk.css.map",
+    "static/css/main.e2034bd7.chunk.css.map": "/FuodBorne/static/css/main.e2034bd7.chunk.css.map",
+    "static/js/2.73794779.chunk.js.LICENSE.txt": "/FuodBorne/static/js/2.73794779.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4626fdf.js",
+    "static/css/2.0fd6ed1c.chunk.css",
+    "static/js/2.73794779.chunk.js",
+    "static/css/main.e2034bd7.chunk.css",
+    "static/js/main.930abc13.chunk.js"
+  ]
+}
